@@ -7,6 +7,9 @@ Usefull links:
 # Objectives for today
 Our goal for today is to determine the temperature and density of the plasma inside the langmuir probe experiment.
 
+
+![Image](Picture1.png)
+
 ## Steps to complete the lab
 
 1. Using the template .csv file in the repository, load the data using python
