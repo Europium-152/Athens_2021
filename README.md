@@ -17,3 +17,7 @@ Our goal for today is to determine the temperature and density of the plasma ins
 6. Fit that equation to the experimental data.
 7. Extract the temperature from the fitted parameters.
 8. Extract the density from the fitted parameters. 
+
+## Bonus
+
+Once you have a working code, run the e-lab experiment with custom parameters.
